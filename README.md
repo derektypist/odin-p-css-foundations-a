@@ -17,3 +17,21 @@ Practice adding CSS to an HTML file using external CSS, internal CSS and inline 
 5.  As a user, I should see a `button` element with an `orange` background and font-size of `18px`.
 
 6.  The CSS of the `button` element should have an inline style.
+
+## Technologies
+
+Uses HTML5 and CSS3.
+
+## Testing
+
+Make sure all user stories have been met.
+
+## Deployment
+
+On [GitHub Pages](https://derektypist.github.io/odin-p-css-foundations-a/) at the main branch.
+
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org)
